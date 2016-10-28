@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/menu/cast_player_menu.xml",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/menu/cast_player_menu.xml"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/menu/main.xml"
+    }
+]

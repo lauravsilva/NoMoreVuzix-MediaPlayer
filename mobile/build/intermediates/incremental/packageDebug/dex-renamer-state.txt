@@ -1,0 +1,7 @@
+#Fri Oct 28 12:22:06 EDT 2016
+base.0=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f3b688919ecb1108edf11d58ec1912d9fe13aae
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99f158b4282a07e024bbdbca15545125decee4be/classes.dex
+base.1=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99f158b4282a07e024bbdbca15545125decee4be
+file.0=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f3b688919ecb1108edf11d58ec1912d9fe13aae/classes.dex

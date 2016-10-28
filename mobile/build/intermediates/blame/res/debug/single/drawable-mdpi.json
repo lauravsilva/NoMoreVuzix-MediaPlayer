@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_play_arrow_white_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_skip_next_white_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_skip_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_skip_previous_white_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_skip_previous_white_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_equalizer3_white_36dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_equalizer3_white_36dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_plusone_standard_off_client.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_allmusic_black_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_allmusic_black_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_skip_next_white_48dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_skip_next_white_48dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_close_black_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_close_black_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_skip_previous_white_48dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_skip_previous_white_48dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_star_off.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_star_off.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_star_on.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_star_on.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_full_open_on_phone.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_playlist_music_black_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_playlist_music_black_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher_white.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_launcher_white.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_pause_black_36dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_info_outline_grey600_48dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_info_outline_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_equalizer1_white_36dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_equalizer1_white_36dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_pause_white_24dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_equalizer2_white_36dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_equalizer2_white_36dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_pause_white_48dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_pause_white_48dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_default_art.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_default_art.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_play_arrow_black_36dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_play_arrow_white_48dp.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_play_arrow_white_48dp.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_notification.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/ic_by_genre.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable-mdpi/ic_by_genre.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    }
+]
