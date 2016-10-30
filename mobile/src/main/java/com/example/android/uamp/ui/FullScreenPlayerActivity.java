@@ -35,6 +35,7 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.ListView;
 
 import com.example.android.uamp.AlbumArtCache;
 import com.example.android.uamp.MusicService;
@@ -74,6 +75,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private Drawable mPauseDrawable;
     private Drawable mPlayDrawable;
     private ImageView mBackgroundImage;
+    private ListView lyricsList;
 
     private String mCurrentArtUrl;
     private Handler mHandler = new Handler();
@@ -145,6 +147,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         mLine3 = (TextView) findViewById(R.id.line3);
         mLoading = (ProgressBar) findViewById(R.id.progressBar1);
         mControllers = findViewById(R.id.controllers);
+        lyricsList = (ListView) findViewById(R.id.lyricsList);
 
         mSkipNext.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -334,6 +337,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         LogHelper.d(TAG, "updateMediaDescription called ");
         mLine1.setText(description.getTitle());
         mLine2.setText(description.getSubtitle());
+        //lyricsList.setAdapter();
         fetchImageAsync(description);
     }
 
@@ -411,6 +415,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
             long timeDelta = SystemClock.elapsedRealtime() -
                     mLastPlaybackState.getLastPositionUpdateTime();
             currentPosition += (int) timeDelta * mLastPlaybackState.getPlaybackSpeed();
+
         }
         mSeekbar.setProgress((int) currentPosition);
     }

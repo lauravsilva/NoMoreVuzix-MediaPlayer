@@ -1,7 +1,19 @@
 [
     {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_content_remove.png",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-xxhdpi-v11/ic_stat_content_remove.png"
+    },
+    {
         "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_action_democast.png",
         "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-xxhdpi-v11/ic_stat_action_democast.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_action_notification.png",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-xxhdpi-v11/ic_stat_action_notification.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_action_democast.png",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-xxhdpi-v11/ic_stat_action_democast.png"
     },
     {
         "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_content_remove.png",

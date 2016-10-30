@@ -4,8 +4,20 @@
         "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-nodpi-v4/album_art_placeholder.png"
     },
     {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable-nodpi-v4/album_art_placeholder.png",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-nodpi-v4/album_art_placeholder.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable-nodpi-v4/album_art_placeholder_large.png",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-nodpi-v4/album_art_placeholder_large.png"
+    },
+    {
         "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-nodpi-v4/mini_controller_img_placeholder.png",
         "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-nodpi-v4/mini_controller_img_placeholder.png"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable-nodpi-v4/mini_controller_img_placeholder.png",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable-nodpi-v4/mini_controller_img_placeholder.png"
     },
     {
         "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable-nodpi-v4/album_art_placeholder_large.png",

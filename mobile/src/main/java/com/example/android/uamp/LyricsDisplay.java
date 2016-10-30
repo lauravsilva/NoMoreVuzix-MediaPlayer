@@ -4,6 +4,7 @@ import android.content.Context;
 import android.os.Environment;
 import android.util.AttributeSet;
 import android.view.View;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import java.io.BufferedReader;
@@ -11,6 +12,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -54,6 +56,52 @@ public class LyricsDisplay {
 
     public String resetView() {
         return "";
+    }
+
+    public ArrayList<String> setLyrics(String song, ListView lyricsView) {
+        ArrayList<String> lyrics = new ArrayList<String>();
+        String line;
+        song += ".txt";
+        System.out.print(song);
+
+        try {
+            File sdCard = Environment.getExternalStorageDirectory();
+
+            File lyricsFile = new File(sdCard, song);
+
+            // FileReader reads text files in the default encoding.
+            FileReader fileReader = new FileReader(lyricsFile);
+
+            // Always wrap FileReader in BufferedReader.
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
+
+            while ((line = bufferedReader.readLine()) != null) {
+                int startIndex = 0;
+                if ((startIndex = line.indexOf(']')) != -1) {
+                    line = line.substring(line.indexOf(']'));
+                    System.out.println(line);
+                    lyrics.add(line);
+                }
+                else {
+                    lyrics.add("Lyrics file is not formatted properly");
+                    break;
+                }
+            }
+
+
+        } catch (FileNotFoundException ex) {
+            System.out.println(
+                    "Unable to open file '" +
+                            song + "'");
+        } catch (IOException ex) {
+            System.out.println(
+                    "Error reading file '"
+                            + song + "'");
+            // Or we could just do this:
+            // ex.printStackTrace();
+        }
+
+        return lyrics;
     }
 
     public String parseLyric(String song, int current) {

@@ -2,5 +2,9 @@
     {
         "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
         "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
     }
 ]

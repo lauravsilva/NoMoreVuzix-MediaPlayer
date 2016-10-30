@@ -28,26 +28,49 @@ limitations under the License.
         android:scaleType="centerCrop"
         android:contentDescription="@string/background_image_str" />
 
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/actionbar_bg_gradient_light"
+        android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <TextView
+        android:id="@+id/line1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:maxLines="1"
+        android:shadowColor="@android:color/black"
+        android:shadowRadius="20"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/fullscreen_line_color"
+        android:layout_alignBottom="@+id/toolbar"
+        android:layout_toRightOf="@+id/progressBar1"
+        android:layout_toEndOf="@+id/progressBar1" />
+
     <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:background="@drawable/fullscreen_bg_gradient" >
-
-        <TextView
-            android:id="@+id/line1"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/line2"
-            android:ellipsize="end"
-            android:gravity="center_horizontal"
-            android:maxLines="1"
-            android:shadowColor="@android:color/black"
-            android:shadowRadius="20"
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:textColor="@color/fullscreen_line_color" />
+        android:background="@drawable/fullscreen_bg_gradient"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/progressBar1"
+        android:layout_toEndOf="@+id/progressBar1"
+        android:layout_marginLeft="157dp"
+        android:layout_marginStart="157dp">
 
         <TextView
             android:id="@+id/line2"
@@ -166,23 +189,11 @@ limitations under the License.
 
     </RelativeLayout>
 
-    <ProgressBar
-        android:id="@+id/progressBar1"
-        style="?android:attr/progressBarStyleLarge"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:visibility="gone" />
-
-    <android.support.v7.widget.Toolbar
-        android:id="@+id/toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:background="@drawable/actionbar_bg_gradient_light"
-        android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/lyricsList"
+        android:background="@android:color/holo_red_dark"
+        android:layout_alignTop="@+id/line1"></ListView>
 
 </RelativeLayout>
