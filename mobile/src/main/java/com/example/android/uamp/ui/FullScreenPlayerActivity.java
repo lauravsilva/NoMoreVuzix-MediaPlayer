@@ -31,7 +31,9 @@ import android.support.v4.media.session.MediaControllerCompat;
 import android.support.v4.media.session.MediaSessionCompat;
 import android.support.v4.media.session.PlaybackStateCompat;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+import android.widget.ListAdapter;
 import android.widget.ProgressBar;
 import android.widget.SeekBar;
 import android.widget.TextView;
@@ -39,10 +41,12 @@ import android.widget.ListView;
 
 import com.example.android.uamp.AlbumArtCache;
 import com.example.android.uamp.MusicService;
+import com.example.android.uamp.LyricsDisplay;
 import com.example.android.uamp.R;
 import com.example.android.uamp.utils.LogHelper;
 import com.google.android.libraries.cast.companionlibrary.utils.Utils;
 
+import java.util.ArrayList;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
@@ -76,6 +80,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private Drawable mPlayDrawable;
     private ImageView mBackgroundImage;
     private ListView lyricsList;
+    private ArrayAdapter<String> arrayAdapter;
 
     private String mCurrentArtUrl;
     private Handler mHandler = new Handler();
@@ -337,8 +342,11 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         LogHelper.d(TAG, "updateMediaDescription called ");
         mLine1.setText(description.getTitle());
         mLine2.setText(description.getSubtitle());
-        //lyricsList.setAdapter();
         fetchImageAsync(description);
+
+        ArrayList<String> lyrics = LyricsDisplay.getLyrics(description.getTitle().toString());
+        arrayAdapter = new ArrayAdapter<String>(this, R.layout.activity_full_player, R.id.lyricsList, lyrics);
+        lyricsList.setAdapter(arrayAdapter);
     }
 
     private void updateDuration(MediaMetadataCompat metadata) {
