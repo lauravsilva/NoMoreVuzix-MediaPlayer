@@ -39,52 +39,20 @@ limitations under the License.
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:background="@drawable/actionbar_bg_gradient_light"
         android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
-
-    <TextView
-        android:id="@+id/line1"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:ellipsize="end"
-        android:gravity="center_horizontal"
-        android:maxLines="1"
-        android:shadowColor="@android:color/black"
-        android:shadowRadius="20"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textColor="@color/fullscreen_line_color"
-        android:layout_alignBottom="@+id/toolbar"
-        android:layout_toRightOf="@+id/progressBar1"
-        android:layout_toEndOf="@+id/progressBar1" />
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_height="36dp" />
 
     <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:background="@drawable/fullscreen_bg_gradient"
         android:layout_alignParentTop="true"
-        android:layout_toRightOf="@+id/progressBar1"
-        android:layout_toEndOf="@+id/progressBar1"
-        android:layout_marginLeft="157dp"
-        android:layout_marginStart="157dp">
-
-        <TextView
-            android:id="@+id/line2"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/line3"
-            android:ellipsize="end"
-            android:fontFamily="sans-serif-light"
-            android:gravity="center_horizontal"
-            android:maxLines="1"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:shadowColor="@android:color/black"
-            android:shadowRadius="20"
-            android:textColor="@color/fullscreen_secondary_line_color" />
+        android:layout_alignParentStart="true">
 
         <TextView
             android:id="@+id/line3"
@@ -187,13 +155,47 @@ limitations under the License.
 
         </LinearLayout>
 
-    </RelativeLayout>
+        <ListView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/lyricsList"
+            android:background="#BFFFFFFF"
+            android:textColor="@android:color/white"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_above="@+id/line3"
+            android:layout_below="@+id/line2"></ListView>
 
-    <ListView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/lyricsList"
-        android:background="@android:color/holo_red_dark"
-        android:layout_alignTop="@+id/line1"></ListView>
+        <TextView
+            android:id="@+id/line1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="center_horizontal"
+            android:maxLines="1"
+            android:shadowColor="@android:color/black"
+            android:shadowRadius="20"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/fullscreen_line_color"
+            android:layout_marginTop="37dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/line2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center_horizontal"
+            android:maxLines="1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:shadowColor="@android:color/black"
+            android:shadowRadius="20"
+            android:textColor="@color/fullscreen_secondary_line_color"
+            android:layout_below="@+id/line1"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
 
 </RelativeLayout>
