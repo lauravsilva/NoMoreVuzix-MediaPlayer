@@ -159,10 +159,9 @@ limitations under the License.
             android:id="@+id/lyrics"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:background="#BFFFFFFF"
-            android:textColor="@android:color/white"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
+            android:background="@layout/gradient"
             android:layout_above="@+id/line3"
             android:layout_below="@+id/line2">asdfasdf</ListView>
 

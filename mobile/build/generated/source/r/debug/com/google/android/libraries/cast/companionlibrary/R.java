@@ -661,12 +661,12 @@ public final class R {
 		public static final int custom_media_route_controller_controls_dialog = 0x7f03001c;
 		public static final int custom_notification = 0x7f03001d;
 		public static final int custom_tracks_dialog_layout = 0x7f03001e;
-		public static final int mini_controller = 0x7f030026;
-		public static final int mr_media_route_chooser_dialog = 0x7f030027;
-		public static final int mr_media_route_controller_material_dialog_b = 0x7f030028;
-		public static final int mr_media_route_list_item = 0x7f030029;
-		public static final int support_simple_spinner_dropdown_item = 0x7f030036;
-		public static final int tracks_row_layout = 0x7f030037;
+		public static final int mini_controller = 0x7f030028;
+		public static final int mr_media_route_chooser_dialog = 0x7f030029;
+		public static final int mr_media_route_controller_material_dialog_b = 0x7f03002a;
+		public static final int mr_media_route_list_item = 0x7f03002b;
+		public static final int support_simple_spinner_dropdown_item = 0x7f030038;
+		public static final int tracks_row_layout = 0x7f030039;
 	}
 	public static final class menu {
 		public static final int cast_player_menu = 0x7f0f0000;

@@ -2,130 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e6ef3980aee35bbdddd2ecace29e66f96452bee4">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f3b688919ecb1108edf11d58ec1912d9fe13aae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-7.0.0_c12ef0c6766df777ec122408592e1605305cb5ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_3f3f85c76583b038415a93be43f9ad832516396d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\library\5.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="8b3d9a7b348d8bcfb4d740dfaf70bc374cdae9d6">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.amlcurran.showcaseview-library-5.0.0_341b5f474ec37bf578856ee8227e4674d9eccf1b/classes.dex" />
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.github.amlcurran.showcaseview-library-5.0.0_3d7d3eb2485367fd5ff849475d335539bd832aa1.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_7c94778fe4ea76a3185b95112327a34a1516c52d/classes.dex" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_f7a149741bcd6234f11135d1f686aa3b5f17131e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="aa8785edb9046d76d7bf20f925ae6d4e3907f61c">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-CastCompanionLibrary-debug_667d01cd2931b03ccd3262bd3854aab3618ff3ce/classes.dex" />
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.0_be258deca2ca1ee7569a929db8f478246f063397.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.chrisanderson.mediabrowsercompat/library/0.0.2/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="4e2e20697b271f2530954059d61a622a5a9b4388">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.chrisanderson.mediabrowsercompat-library-0.0.2_945f944db07f1efcbfd3af5bf6260954693b8920/classes.dex" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_59cbd0ae1155237ba6660eabb0e3027c7f211ac8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_dc3c427ee076fbbf9615933902f5c467d484d11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nils\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_674abfed10c8d864533f35c743d5a54713e86ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.0.0_354db97ae9b59b0a7be035b25765015074bf29f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.0.0_62829394921dfb67c9f5e383f4ee09cf1bc05217/classes.dex" />
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.0.0_0a5aabc9c75b451dbaac4e9cea818a727256a829.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="900605e1499797cb8be75c85aad8af05f8c3a276">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99f158b4282a07e024bbdbca15545125decee4be/classes.dex" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_5ee9cc3bf05fec64c712f788fa3c29d6093ed5f0.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.chrisanderson.mediabrowsercompat\library\0.0.2\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_7552d4776d66ddd404e0daf982bd0f357d4a7ec5/classes.dex" />
+        sha1="4e2e20697b271f2530954059d61a622a5a9b4388">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.chrisanderson.mediabrowsercompat-library-0.0.2_d0a9cd7c367b0364460b32a7a3c0bb006d846131.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_0a0aa68a892fe9ccd6367f5064261bf6558f8ca9/classes.dex" />
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_c052d1c23e5fa9392a928461fd56650ba83459c0.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\exploded-aar\CastCompanionLibrary-debug\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_4f403568a821874bd13a57eb73cd400de2b7a267/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-22.0.0_7a540969774747f0bfa15de945520e492b3c34c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_6c772ed3d06433a617249b0c6a7213e34866ed35/classes.dex" />
+        sha1="aa8785edb9046d76d7bf20f925ae6d4e3907f61c">
+        <dex dex="C:\Users\nils\Desktop\Projects\356\NoMoreVuzix-MediaPlayer\mobile\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-CastCompanionLibrary-debug_161376b807b9da8417a08242c0b27d858cdf20ff.jar" />
     </item>
 
 </items>

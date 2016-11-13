@@ -18,6 +18,7 @@ package com.example.android.uamp.ui;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.Handler;
@@ -47,6 +48,8 @@ import com.example.android.uamp.utils.LogHelper;
 import com.example.android.uamp.utils.LyricsHelper;
 import com.google.android.libraries.cast.companionlibrary.utils.Utils;
 
+import org.w3c.dom.Text;
+
 import java.util.ArrayList;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
@@ -65,6 +68,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private static final String TAG = LogHelper.makeLogTag(FullScreenPlayerActivity.class);
     private static final long PROGRESS_UPDATE_INTERNAL = 1000;
     private static final long PROGRESS_UPDATE_INITIAL_INTERVAL = 100;
+    private static final int CHOICE_MODE_SINGLE = 1;
 
     private ImageView mSkipPrev;
     private ImageView mSkipNext;
@@ -82,7 +86,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private ImageView mBackgroundImage;
     private ListView lyricsList;
     private ArrayAdapter<String> arrayAdapter;
-
+    private static int counter = 0;
     private String mCurrentArtUrl;
     private Handler mHandler = new Handler();
     private MediaBrowserCompat mMediaBrowser;
@@ -347,9 +351,20 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
 
         ArrayList<String> lyrics = LyricsDisplay.getLyrics(description.getTitle().toString());
 
-        arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, lyrics);
+        arrayAdapter = new ArrayAdapter<String>(this, R.layout.lyrics, lyrics);
         lyricsList.setAdapter(arrayAdapter);
+        lyricsList.setDivider(this.getResources().getDrawable(android.R.color.transparent));
+        lyricsList.setFocusableInTouchMode(false);
+        lyricsList.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            @Override
+            public void onFocusChange(View v, boolean hasFocus) {
+                v.setBackgroundColor(hasFocus ? Color.GREEN : Color.RED);
+            }
+        });
+
+        lyricsList.setClickable(true);
     }
+
 
     private void updateDuration(MediaMetadataCompat metadata) {
         if (metadata == null) {
@@ -428,5 +443,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
 
         }
         mSeekbar.setProgress((int) currentPosition);
+        lyricsList.setSelection(counter);
+        counter++;
     }
 }
