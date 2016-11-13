@@ -44,6 +44,7 @@ import com.example.android.uamp.MusicService;
 import com.example.android.uamp.LyricsDisplay;
 import com.example.android.uamp.R;
 import com.example.android.uamp.utils.LogHelper;
+import com.example.android.uamp.utils.LyricsHelper;
 import com.google.android.libraries.cast.companionlibrary.utils.Utils;
 
 import java.util.ArrayList;
@@ -152,7 +153,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         mLine3 = (TextView) findViewById(R.id.line3);
         mLoading = (ProgressBar) findViewById(R.id.progressBar1);
         mControllers = findViewById(R.id.controllers);
-        lyricsList = (ListView) findViewById(R.id.lyricsList);
+        lyricsList = (ListView) findViewById(R.id.lyrics);
 
         mSkipNext.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -345,7 +346,8 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         fetchImageAsync(description);
 
         ArrayList<String> lyrics = LyricsDisplay.getLyrics(description.getTitle().toString());
-        arrayAdapter = new ArrayAdapter<String>(this, R.layout.activity_full_player, R.id.lyricsList, lyrics);
+
+        arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, lyrics);
         lyricsList.setAdapter(arrayAdapter);
     }
 

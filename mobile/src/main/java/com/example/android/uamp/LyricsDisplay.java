@@ -58,16 +58,17 @@ public class LyricsDisplay {
         return "";
     }
 
-    public ArrayList<String> setLyrics(String song, ListView lyricsView) {
+    public static ArrayList<String> getLyrics(String song) {
         ArrayList<String> lyrics = new ArrayList<String>();
         String line;
         song += ".txt";
-        System.out.print(song);
+        System.out.println(song);
 
         try {
-            File sdCard = Environment.getExternalStorageDirectory();
-
-            File lyricsFile = new File(sdCard, song);
+            File path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
+            System.out.println(path);
+            path.mkdirs();
+            File lyricsFile = new File(path, song);
 
             // FileReader reads text files in the default encoding.
             FileReader fileReader = new FileReader(lyricsFile);
@@ -93,6 +94,9 @@ public class LyricsDisplay {
             System.out.println(
                     "Unable to open file '" +
                             song + "'");
+
+
+
         } catch (IOException ex) {
             System.out.println(
                     "Error reading file '"
@@ -101,6 +105,7 @@ public class LyricsDisplay {
             // ex.printStackTrace();
         }
 
+        System.out.println(lyrics);
         return lyrics;
     }
 
