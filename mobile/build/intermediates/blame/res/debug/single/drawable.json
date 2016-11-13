@@ -1,338 +1,198 @@
 [
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable\\ic_mini_controller_pause.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_settings_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/cast_player_bg_gradient_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/cast_player_bg_gradient_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\fullscreen_bg_gradient.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\drawable\\fullscreen_bg_gradient.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_pause_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/fullscreen_bg_gradient.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/drawable/fullscreen_bg_gradient.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.github.amlcurran.showcaseview\\library\\5.0.0\\res\\drawable\\button.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\cling_button_bg.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.github.amlcurran.showcaseview\\library\\5.0.0\\res\\drawable\\cling_button_bg.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_equalizer_white_36dp.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable/ic_equalizer_white_36dp.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_player_bg_gradient_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable\\cast_player_bg_gradient_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_pause_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_equalizer_white_36dp.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/drawable/ic_equalizer_white_36dp.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\cc.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable\\cc.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/cc.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/cc.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/cast_player_bg_gradient_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/cast_player_bg_gradient_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable\\actionbar_bg_gradient_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/actionbar_bg_gradient_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/actionbar_bg_gradient_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_play_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_play_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable\\ic_mini_controller_stop.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/cling_button_bg.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/res/drawable/cling_button_bg.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/fullscreen_bg_gradient.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/drawable/fullscreen_bg_gradient.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_mini_controller_pause.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/ic_mini_controller_pause.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mini_controller_play.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable\\ic_mini_controller_play.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_pause_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/button.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/res/drawable/button.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_mini_controller_pause.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/ic_mini_controller_pause.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.github.amlcurran.showcaseview\\library\\5.0.0\\res\\drawable\\button_normal.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/actionbar_bg_gradient_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/actionbar_bg_gradient_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/cc.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/cc.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_settings_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/cling_button_bg.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/res/drawable/cling_button_bg.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_play_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_pause_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/button_normal.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/res/drawable/button_normal.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_settings_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_play_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/button.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/res/drawable/button.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_mini_controller_stop.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/ic_mini_controller_stop.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_mini_controller_play.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/ic_mini_controller_play.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_mini_controller_stop.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/ic_mini_controller_stop.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/ic_mini_controller_play.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/drawable/ic_mini_controller_play.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/button_normal.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/res/drawable/button_normal.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_settings_dark.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_equalizer_white_36dp.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\drawable\\ic_equalizer_white_36dp.xml"
     }
 ]

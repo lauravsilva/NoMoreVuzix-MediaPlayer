@@ -1,26 +1,14 @@
 [
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/xml/automotive_app_desc.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/xml/automotive_app_desc.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\xml\\allowed_media_browser_callers.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\xml\\allowed_media_browser_callers.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/xml/allowed_media_browser_callers.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/xml/allowed_media_browser_callers.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\xml\\caption_preference.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\xml\\caption_preference.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/xml/caption_preference.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/xml/caption_preference.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/xml/caption_preference.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/xml/caption_preference.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/xml/automotive_app_desc.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/xml/automotive_app_desc.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/xml/allowed_media_browser_callers.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/xml/allowed_media_browser_callers.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\xml\\automotive_app_desc.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\xml\\automotive_app_desc.xml"
     }
 ]

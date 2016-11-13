@@ -156,15 +156,15 @@ limitations under the License.
         </LinearLayout>
 
         <ListView
+            android:id="@+id/lyrics"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:id="@+id/lyricsList"
             android:background="#BFFFFFFF"
             android:textColor="@android:color/white"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
             android:layout_above="@+id/line3"
-            android:layout_below="@+id/line2"></ListView>
+            android:layout_below="@+id/line2">asdfasdf</ListView>
 
         <TextView
             android:id="@+id/line1"

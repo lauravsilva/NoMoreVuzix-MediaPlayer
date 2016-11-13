@@ -8,6 +8,7 @@
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
     <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
     <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
@@ -51,10 +52,12 @@
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Söker efter enheter ..."</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Anslut till enhet"</string>
     <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Koppla från"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Det finns ingen information"</string>
     <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pausa"</string>
     <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Spela upp"</string>
     <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Inställningar för omdirigering"</string>
     <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Sluta casta"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
 </resources>

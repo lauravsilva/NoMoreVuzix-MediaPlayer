@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h800dp-v13/values-h800dp-v13.xml",
+        "outputFile": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h800dp-v13\\values-h800dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/values-h800dp/dimens.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 699,
-                        "endColumn": 48,
-                        "endOffset": 743
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h800dp-v13/values-h800dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/values-h800dp/dimens.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\values-h800dp\\dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

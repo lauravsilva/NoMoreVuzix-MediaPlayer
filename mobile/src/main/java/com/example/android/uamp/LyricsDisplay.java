@@ -69,7 +69,6 @@ public class LyricsDisplay {
             System.out.println(path);
             path.mkdirs();
             File lyricsFile = new File(path, song);
-
             // FileReader reads text files in the default encoding.
             FileReader fileReader = new FileReader(lyricsFile);
 
@@ -79,7 +78,7 @@ public class LyricsDisplay {
             while ((line = bufferedReader.readLine()) != null) {
                 int startIndex = 0;
                 if ((startIndex = line.indexOf(']')) != -1) {
-                    line = line.substring(line.indexOf(']'));
+                    line = line.substring(line.indexOf(']')+1);
                     System.out.println(line);
                     lyrics.add(line);
                 }

@@ -1,82 +1,50 @@
 [
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/fade_out.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/anim/fade_out.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/fade_in.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/anim/fade_in.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_in.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/fade_out.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/anim/fade_out.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/anim/fade_in.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/anim/fade_in.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/anim/abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_top.xml"
     }
 ]

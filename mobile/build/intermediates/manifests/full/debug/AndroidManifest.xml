@@ -20,13 +20,14 @@
     android:versionName="1.1" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="20"
         android:targetSdkVersion="22" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <uses-feature
         android:name="android.software.leanback"
@@ -131,6 +132,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".ui.MusicPlayerActivity" />
         </activity>
+        <activity android:name="com.example.android.uamp.utils.LyricsHelper" />
     </application>
 
 </manifest>

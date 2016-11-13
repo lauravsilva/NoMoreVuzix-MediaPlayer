@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "outputFile": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,37 +11,13 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-w720dp\\values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 282,
                         "endColumn": 76,
-                        "endOffset": 350
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 76,
-                    "endOffset": 127
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 76,
-                        "endOffset": 350
+                        "endOffset": 354
                     }
                 }
             }

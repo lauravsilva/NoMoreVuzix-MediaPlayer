@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "outputFile": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
+                    "endColumn": 68,
+                    "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 69,
-                        "endOffset": 345
+                        "startOffset": 284,
+                        "endColumn": 68,
+                        "endOffset": 348
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 125,
+                    "startOffset": 124,
                     "endColumn": 69,
-                    "endOffset": 190
+                    "endOffset": 189
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 350,
+                        "startOffset": 353,
                         "endColumn": 69,
-                        "endOffset": 415
+                        "endOffset": 418
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 195,
-                    "endColumn": 58,
-                    "endOffset": 249
+                    "startOffset": 194,
+                    "endColumn": 73,
+                    "endOffset": 263
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 645,
-                        "endColumn": 58,
-                        "endOffset": 699
+                        "startOffset": 423,
+                        "endColumn": 73,
+                        "endOffset": 492
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 254,
-                    "endColumn": 70,
-                    "endOffset": 320
+                    "startOffset": 268,
+                    "endColumn": 75,
+                    "endOffset": 339
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 929,
-                        "endColumn": 70,
-                        "endOffset": 995
+                        "startOffset": 497,
+                        "endColumn": 75,
+                        "endOffset": 568
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 325,
-                    "endColumn": 67,
-                    "endOffset": 388
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1000,
-                        "endColumn": 67,
-                        "endOffset": 1063
+                        "startOffset": 802,
+                        "endColumn": 58,
+                        "endOffset": 856
                     }
                 }
             },
@@ -101,12 +101,50 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 393,
-                    "endColumn": 66,
-                    "endOffset": 455
+                    "startOffset": 403,
+                    "endColumn": 70,
+                    "endOffset": 469
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 70,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 67,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 66,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\values-sw600dp-v13\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -118,14 +156,14 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 460,
+                    "startOffset": 609,
                     "endColumn": 66,
-                    "endOffset": 522
+                    "endOffset": 671
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\values-sw600dp-v13\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -137,14 +175,14 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 527,
+                    "startOffset": 676,
                     "endColumn": 62,
-                    "endOffset": 585
+                    "endOffset": 734
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\values-sw600dp-v13\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -156,14 +194,14 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 590,
+                    "startOffset": 739,
                     "endColumn": 62,
-                    "endOffset": 648
+                    "endOffset": 797
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\values-sw600dp-v13\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -175,14 +213,14 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 653,
+                    "startOffset": 802,
                     "endColumn": 72,
-                    "endOffset": 721
+                    "endOffset": 870
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -194,234 +232,20 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 726,
+                    "startOffset": 875,
                     "endColumn": 54,
-                    "endOffset": 776
+                    "endOffset": 925
                 },
                 "from": {
-                    "file": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
+                    "file": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1068,
+                        "startOffset": 1229,
                         "endColumn": 54,
-                        "endOffset": 1118
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 69,
-                        "endOffset": 345
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 69,
-                    "endOffset": 190
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 350,
-                        "endColumn": 69,
-                        "endOffset": 415
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 195,
-                    "endColumn": 58,
-                    "endOffset": 249
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 645,
-                        "endColumn": 58,
-                        "endOffset": 699
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 254,
-                    "endColumn": 70,
-                    "endOffset": 320
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 929,
-                        "endColumn": 70,
-                        "endOffset": 995
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 325,
-                    "endColumn": 67,
-                    "endOffset": 388
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1000,
-                        "endColumn": 67,
-                        "endOffset": 1063
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 393,
-                    "endColumn": 66,
-                    "endOffset": 455
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 213,
-                        "endColumn": 66,
-                        "endOffset": 275
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 460,
-                    "endColumn": 66,
-                    "endOffset": 522
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 66,
-                        "endOffset": 342
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 527,
-                    "endColumn": 62,
-                    "endOffset": 585
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 347,
-                        "endColumn": 62,
-                        "endOffset": 405
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 590,
-                    "endColumn": 62,
-                    "endOffset": 648
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/CastCompanionLibrary-debug/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 410,
-                        "endColumn": 62,
-                        "endOffset": 468
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 653,
-                    "endColumn": 72,
-                    "endOffset": 721
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 72,
-                        "endOffset": 350
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 726,
-                    "endColumn": 54,
-                    "endOffset": 776
-                },
-                "from": {
-                    "file": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-sw600dp-v13/values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1068,
-                        "endColumn": 54,
-                        "endOffset": 1118
+                        "endOffset": 1279
                     }
                 }
             }

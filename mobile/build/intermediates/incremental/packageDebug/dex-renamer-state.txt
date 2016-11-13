@@ -1,7 +1,4 @@
-#Fri Oct 28 12:22:06 EDT 2016
-base.0=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f3b688919ecb1108edf11d58ec1912d9fe13aae
-renamed.1=classes2.dex
+#Sun Nov 13 16:57:52 EST 2016
+base.0=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99f158b4282a07e024bbdbca15545125decee4be/classes.dex
-base.1=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99f158b4282a07e024bbdbca15545125decee4be
-file.0=/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f3b688919ecb1108edf11d58ec1912d9fe13aae/classes.dex
+file.0=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

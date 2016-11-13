@@ -1,50 +1,26 @@
 [
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_out_to_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/animator/slide_out_to_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\animator\\slide_out_to_bottom.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_in_from_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/animator/slide_in_from_bottom.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_from_right.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\animator\\slide_in_from_right.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_out_to_left.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/animator/slide_out_to_left.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_from_left.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\animator\\slide_in_from_left.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_out_to_right.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/animator/slide_out_to_right.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_to_right.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\animator\\slide_out_to_right.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_in_from_right.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/animator/slide_in_from_right.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\animator\\slide_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_in_from_left.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/animator/slide_in_from_left.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_out_to_right.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/animator/slide_out_to_right.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_in_from_right.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/animator/slide_in_from_right.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_out_to_left.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/animator/slide_out_to_left.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_out_to_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/animator/slide_out_to_bottom.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_in_from_bottom.xml",
-        "source": "/Users/lauravsilva/Desktop/android-UniversalMusicPlayer/mobile/src/main/res/animator/slide_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/build/intermediates/res/merged/debug/animator/slide_in_from_left.xml",
-        "source": "/Users/lauravsilva/Desktop/NoMoreVuzix-MediaPlayer/mobile/src/main/res/animator/slide_in_from_left.xml"
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_to_left.xml",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\src\\main\\res\\animator\\slide_out_to_left.xml"
     }
 ]

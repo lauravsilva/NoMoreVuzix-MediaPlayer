@@ -22,6 +22,8 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
 
     <uses-feature
         android:name="android.software.leanback"
@@ -125,6 +127,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".ui.MusicPlayerActivity"/>
         </activity>
+        <activity android:name=".utils.LyricsHelper" />
     </application>
 
 </manifest>
