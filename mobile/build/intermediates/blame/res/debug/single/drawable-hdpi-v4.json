@@ -4,24 +4,24 @@
         "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_av_pause_over_video_large.png"
     },
     {
-        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_black_48dp.png",
-        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_clear_black_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mini_bg_shadow.png",
         "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\mini_bg_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_black_48dp.png",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_clear_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_av_pause.png",
         "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_av_pause.png"
     },
     {
-        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_av_play.png",
-        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_av_play.png"
-    },
-    {
         "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_device_access_volume_muted.png",
         "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_device_access_volume_muted.png"
+    },
+    {
+        "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_av_play.png",
+        "source": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\exploded-aar\\CastCompanionLibrary-debug\\res\\drawable-hdpi-v4\\ic_av_play.png"
     },
     {
         "merged": "C:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_arrow_black_48dp.png",

@@ -85,6 +85,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private Drawable mPlayDrawable;
     private ImageView mBackgroundImage;
     private ListView lyricsList;
+    private int lastSelectedIndex;
     private ArrayAdapter<String> arrayAdapter;
     private static int counter = 0;
     private String mCurrentArtUrl;
@@ -221,6 +222,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
 
         // Only update from the intent if we are not recreating from a config change:
         if (savedInstanceState == null) {
+            counter = 0;
             updateFromParams(getIntent());
         }
 
@@ -353,16 +355,16 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
 
         arrayAdapter = new ArrayAdapter<String>(this, R.layout.lyrics, lyrics);
         lyricsList.setAdapter(arrayAdapter);
-        lyricsList.setDivider(this.getResources().getDrawable(android.R.color.transparent));
-        lyricsList.setFocusableInTouchMode(false);
-        lyricsList.setOnFocusChangeListener(new View.OnFocusChangeListener() {
-            @Override
-            public void onFocusChange(View v, boolean hasFocus) {
-                v.setBackgroundColor(hasFocus ? Color.GREEN : Color.RED);
-            }
-        });
-
-        lyricsList.setClickable(true);
+//        lyricsList.setFocusableInTouchMode(false);
+//        lyricsList.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+//            @Override
+//            public void onFocusChange(View v, boolean hasFocus) {
+//                v.setBackgroundColor(hasFocus ? Color.GREEN : Color.RED);
+//            }
+//        });
+//
+//        lyricsList.setClickable(true);
+        lyricsList.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
     }
 
 
@@ -443,7 +445,13 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
 
         }
         mSeekbar.setProgress((int) currentPosition);
-        lyricsList.setSelection(counter);
+        setSelection(counter);
         counter++;
+    }
+
+    private void setSelection(int index) {
+        lyricsList.setSelection(index);
+        lyricsList.requestFocusFromTouch();
+//        lyricsList.setSelector(R.drawable.selected);
     }
 }

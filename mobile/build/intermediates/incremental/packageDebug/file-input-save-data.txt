@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Nov 13 18:45:26 EST 2016
+#Mon Nov 14 17:21:53 EST 2016
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png
 14.set=ANDROID_RESOURCE
@@ -199,7 +199,6 @@
 292.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 194.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_full_player.xml
 190.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
-317.set=ANDROID_RESOURCE
 152.set=ANDROID_RESOURCE
 258.set=ANDROID_RESOURCE
 199.set=ANDROID_RESOURCE
@@ -247,7 +246,7 @@
 8.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 258.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_star_off.png
 104.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\cling.png
-310.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\gradient.xml
+310.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\mr_ic_media_route_mono_light.xml
 233.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_popup_enter.xml
 156.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_grow_fade_in_from_bottom.xml
 240.set=ANDROID_RESOURCE
@@ -332,7 +331,7 @@
 9.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 259.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_default_art.png
 105.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_signin_btn_text_light.xml
-311.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\mr_ic_media_route_mono_light.xml
+311.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\include_drawerlist.xml
 234.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_radio.xml
 157.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_av_stop_sm_light.png
 250.set=ANDROID_RESOURCE
@@ -349,7 +348,6 @@
 61.set=ANDROID_RESOURCE
 3.set=ANDROID_RESOURCE
 57.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_item_background_holo_light.xml
-317.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 32.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_disable_only_material_dark.xml
 165.set=ANDROID_RESOURCE
 63.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
@@ -414,7 +412,7 @@
 214.set=ANDROID_RESOURCE
 106.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_cast_on_1_light.png
 18.set=ANDROID_RESOURCE
-312.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\include_drawerlist.xml
+312.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_av_pause_over_video.png
 235.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_dark.9.png
 158.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_color_highlight_material.xml
 260.set=ANDROID_RESOURCE
@@ -498,7 +496,7 @@
 107.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png
 28.set=ANDROID_RESOURCE
 80.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
-313.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_av_pause_over_video.png
+313.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_view_list_nav_layout.xml
 236.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\animator\\slide_out_to_left.xml
 159.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
 270.set=ANDROID_RESOURCE
@@ -568,7 +566,7 @@
 181.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 121.set=ANDROID_RESOURCE
 227.set=ANDROID_RESOURCE
-count=318
+count=317
 273.set=ANDROID_RESOURCE
 27.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 77.set=ANDROID_RESOURCE
@@ -580,7 +578,7 @@ count=318
 108.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_closed_caption_white.png
 38.set=ANDROID_RESOURCE
 81.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
-314.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_view_list_nav_layout.xml
+314.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png
 237.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_pause_white_48dp.png
 280.set=ANDROID_RESOURCE
 289.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\activity_full_player.xml
@@ -662,7 +660,7 @@ count=318
 109.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
 48.set=ANDROID_RESOURCE
 82.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
-315.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png
+315.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_light.xml
 238.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml
 290.set=ANDROID_RESOURCE
 213.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_cast_dark.png
@@ -748,7 +746,7 @@ count=318
 31.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 58.set=ANDROID_RESOURCE
 83.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
-316.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_light.xml
+316.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\mini_controller.xml
 239.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\media_list_item.xml
 62.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_media_action.xml
 214.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_av_play_over_video_large.png
@@ -829,7 +827,6 @@ count=318
 32.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
 68.set=ANDROID_RESOURCE
 84.base=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_
-317.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\mini_controller.xml
 63.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_dark.xml
 215.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png
 138.file=C\:\\Users\\nils\\Desktop\\Projects\\356\\NoMoreVuzix-MediaPlayer\\mobile\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_in_bottom.xml

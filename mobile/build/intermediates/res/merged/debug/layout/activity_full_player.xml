@@ -160,10 +160,13 @@ limitations under the License.
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_alignParentRight="true"
+            android:focusableInTouchMode="false"
+            android:listSelector="#993333"
+            android:choiceMode="singleChoice"
             android:layout_alignParentEnd="true"
-            android:background="@layout/gradient"
+            android:divider="@android:color/transparent"
             android:layout_above="@+id/line3"
-            android:layout_below="@+id/line2">asdfasdf</ListView>
+            android:layout_below="@+id/line2" />
 
         <TextView
             android:id="@+id/line1"
@@ -172,6 +175,7 @@ limitations under the License.
             android:ellipsize="end"
             android:gravity="center_horizontal"
             android:maxLines="1"
+            android:choiceMode="singleChoice"
             android:shadowColor="@android:color/black"
             android:shadowRadius="20"
             android:textAppearance="?android:attr/textAppearanceLarge"
