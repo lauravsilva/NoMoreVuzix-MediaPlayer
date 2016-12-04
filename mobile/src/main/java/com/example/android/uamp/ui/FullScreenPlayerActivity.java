@@ -92,12 +92,27 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private Handler mHandler = new Handler();
     private MediaBrowserCompat mMediaBrowser;
 
+    private LyricsDisplay lyricDisplay = new LyricsDisplay();
+    private int lyricsIndex = 0;
+    private ArrayList<Integer> endTimeArray;
+    private int endTimeIndex = 0;
+    private long startTime = System.currentTimeMillis();
+
     private final Runnable mUpdateProgressTask = new Runnable() {
         @Override
         public void run() {
             updateProgress();
         }
     };
+
+    /*
+    private final Runnable updateLyrics = new Runnable() {
+        @Override
+        public void run() {
+            updateLyrics();
+        }
+    };
+    */
 
     private final ScheduledExecutorService mExecutorService =
         Executors.newSingleThreadScheduledExecutor();
@@ -166,6 +181,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
                 MediaControllerCompat.TransportControls controls =
                     mMediaController.getTransportControls();
                 controls.skipToNext();
+                counter=0;
             }
         });
 
@@ -175,6 +191,9 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
                 MediaControllerCompat.TransportControls controls =
                         mMediaController.getTransportControls();
                 controls.skipToPrevious();
+                counter=0;
+                lyricsIndex = 0;
+                endTimeIndex = 0;
             }
         });
 
@@ -278,6 +297,7 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
                         @Override
                         public void run() {
                             mHandler.post(mUpdateProgressTask);
+                            //mHandler.post(updateLyrics);
                         }
                     }, PROGRESS_UPDATE_INITIAL_INTERVAL,
                     PROGRESS_UPDATE_INTERNAL, TimeUnit.MILLISECONDS);
@@ -351,7 +371,8 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         mLine2.setText(description.getSubtitle());
         fetchImageAsync(description);
 
-        ArrayList<String> lyrics = LyricsDisplay.getLyrics(description.getTitle().toString());
+        endTimeArray = lyricDisplay.getEndTimes();
+        ArrayList<String> lyrics = lyricDisplay.getLyrics(description.getTitle().toString());
 
         arrayAdapter = new ArrayAdapter<String>(this, R.layout.lyrics, lyrics);
         lyricsList.setAdapter(arrayAdapter);
@@ -445,8 +466,19 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
 
         }
         mSeekbar.setProgress((int) currentPosition);
-        setSelection(counter);
-        counter++;
+
+        if (counter < endTimeArray.get(0)) {
+            setSelection(0);
+        }
+
+        if(endTimeIndex < endTimeArray.size()){
+            if (counter >= endTimeArray.get(endTimeIndex)) {
+                setSelection(lyricsIndex+1);
+                lyricsIndex++;
+                endTimeIndex++;
+            }
+            counter++;
+        }
     }
 
     private void setSelection(int index) {
@@ -454,4 +486,18 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         lyricsList.requestFocusFromTouch();
 //        lyricsList.setSelector(R.drawable.selected);
     }
+
+    /*
+    private void updateLyrics() {
+        long currentTime = (System.currentTimeMillis() - startTime) / 1000;
+
+
+        System.out.println(endTimeArray); //
+        if (currentTime >= endTimeArray.get(endTimeIndex)) {
+            setSelection(lyricsIndex);
+            lyricsIndex++;
+            endTimeIndex++;
+        }
+    }
+    */
 }
