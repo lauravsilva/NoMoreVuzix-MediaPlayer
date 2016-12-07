@@ -49,7 +49,7 @@ public class MusicProvider {
     private static final String TAG = LogHelper.makeLogTag(MusicProvider.class);
 
     private static final String CATALOG_URL =
-        "sc.rit.edu/~nbs6242/356/music/music.json";
+        "http://www.se.rit.edu/~nbs6242/356/music/music.json";
 
     public static final String CUSTOM_METADATA_TRACK_SOURCE = "__SOURCE__";
 
