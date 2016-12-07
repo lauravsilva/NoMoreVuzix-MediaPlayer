@@ -28,8 +28,8 @@ public class LyricsDisplay {
     public static ArrayList<String> getLyrics(String song) {
         ArrayList<String> lyrics = new ArrayList<String>();
         String line;
-        //song += ".txt";
-        song = "George Michael - Careless Whisper (Lyrics).txt"; //Remove
+        song += ".txt";
+        //song = "George Michael - Careless Whisper (Lyrics).txt"; //Remove
 
         try {
             File path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
