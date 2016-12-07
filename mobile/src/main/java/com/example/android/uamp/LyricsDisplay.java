@@ -13,7 +13,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -26,6 +28,7 @@ public class LyricsDisplay {
     private boolean firstRun = true;
     private int currentTime = 0;
     private int endTime = 17;
+    public static ArrayList<Integer> endTimes;
 
 //    public String lyricsController(String song) {
 //        currentTime += 500; //TODO: Replace with current time.
@@ -61,12 +64,11 @@ public class LyricsDisplay {
     public static ArrayList<String> getLyrics(String song) {
         ArrayList<String> lyrics = new ArrayList<String>();
         String line;
-        song += ".txt";
-        System.out.println(song);
+        //song += ".txt";
+        song = "George Michael - Careless Whisper (Lyrics).txt"; //Remove
 
         try {
             File path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
-            System.out.println(path);
             path.mkdirs();
             File lyricsFile = new File(path, song);
             // FileReader reads text files in the default encoding.
@@ -74,20 +76,25 @@ public class LyricsDisplay {
 
             // Always wrap FileReader in BufferedReader.
             BufferedReader bufferedReader = new BufferedReader(fileReader);
+            ArrayList<String> items = new ArrayList<String>();
 
+            int lineNum = 1;
+            int endTimeIndex = 0;
+            endTimes = new ArrayList<>();
             while ((line = bufferedReader.readLine()) != null) {
-                int startIndex = 0;
-                if ((startIndex = line.indexOf(']')) != -1) {
-                    line = line.substring(line.indexOf(']')+1);
-                    System.out.println(line);
-                    lyrics.add(line);
+                if (lineNum == 1) {
+                    String[] rawEndTimes = line.split(",");
+
+                    for (int i = 0; i < rawEndTimes.length; i++) {
+                        int timeToAdd = Integer.parseInt(rawEndTimes[i]);
+                        endTimes.add(timeToAdd);
+                    }
                 }
                 else {
-                    lyrics.add("Lyrics file is not formatted properly");
-                    break;
+                    lyrics.add(line);
                 }
+                lineNum++;
             }
-
 
         } catch (FileNotFoundException ex) {
             System.out.println(
@@ -123,14 +130,12 @@ public class LyricsDisplay {
             // ex.printStackTrace();
         }
 
-        System.out.println(lyrics);
         return lyrics;
     }
 
     public String parseLyric(String song, int current) {
         String lyrics = "";
         song += ".txt";
-        System.out.println(song);
 
         try {
             File sdCard = Environment.getExternalStorageDirectory();
@@ -144,7 +149,12 @@ public class LyricsDisplay {
             BufferedReader bufferedReader =
                     new BufferedReader(fileReader);
 
+            int lineNum = 1;
             while ((lyrics = bufferedReader.readLine()) != null) {
+                if (lineNum == 1) {
+
+                }
+
                 String[] l = lyrics.split("-");
                 String[] starttime = l[0].split(":");
                 //System.out.println(starttime[0] + ":" + starttime[1]);
@@ -178,6 +188,7 @@ public class LyricsDisplay {
                 } catch (InterruptedException ex) {
                     Thread.currentThread().interrupt();
                 }
+                lineNum++;
             }
             //TODO: Figure out how to return the end of the file.
             // Always close files.

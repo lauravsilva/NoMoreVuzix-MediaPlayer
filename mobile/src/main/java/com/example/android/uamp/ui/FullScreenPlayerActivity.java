@@ -371,8 +371,8 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         mLine2.setText(description.getSubtitle());
         fetchImageAsync(description);
 
-        endTimeArray = lyricDisplay.getEndTimes();
         ArrayList<String> lyrics = lyricDisplay.getLyrics(description.getTitle().toString());
+        endTimeArray = LyricsDisplay.endTimes; //TODO: Try to recover
 
         arrayAdapter = new ArrayAdapter<String>(this, R.layout.lyrics, lyrics);
         lyricsList.setAdapter(arrayAdapter);
