@@ -23,43 +23,7 @@ import java.util.Map;
  */
 
 public class LyricsDisplay {
-    private int endLyricTime;
-    private String currentLyrics;
-    private boolean firstRun = true;
-    private int currentTime = 0;
-    private int endTime = 17;
     public static ArrayList<Integer> endTimes;
-
-//    public String lyricsController(String song) {
-//        currentTime += 500; //TODO: Replace with current time.
-//        parseLyric(song, currentTime);
-//        System.out.println("Current time: " + currentTime); //Debug
-//        System.out.println("En time: " + endLyricTime); //Debug
-//        if(firstRun == true){
-//            firstRun = false;
-//            return currentLyrics;
-//        }
-//        if (currentLyrics == "END_LYRICS") {
-//            System.out.println("returning en");
-//            return "END_LYRICS";
-//        }
-//
-//        if (currentTime < endLyricTime) {
-//            System.out.println("returning not new");
-//            return "NOT_NEW";
-//        }
-//
-//        System.out.println(currentLyrics);
-//        return currentLyrics;
-//    }
-
-    public int getEndTime() {
-        return endLyricTime;
-    }
-
-    public String resetView() {
-        return "";
-    }
 
     public static ArrayList<String> getLyrics(String song) {
         ArrayList<String> lyrics = new ArrayList<String>();
@@ -122,81 +86,6 @@ public class LyricsDisplay {
             lyrics.add("They should be removed for deployment");
 
 
-        } catch (IOException ex) {
-            System.out.println(
-                    "Error reading file '"
-                            + song + "'");
-            // Or we could just do this:
-            // ex.printStackTrace();
-        }
-
-        return lyrics;
-    }
-
-    public String parseLyric(String song, int current) {
-        String lyrics = "";
-        song += ".txt";
-
-        try {
-            File sdCard = Environment.getExternalStorageDirectory();
-            File lyricsFile = new File(sdCard, song);
-
-            // FileReader reads text files in the default encoding.
-            FileReader fileReader =
-                    new FileReader(lyricsFile);
-
-            // Always wrap FileReader in BufferedReader.
-            BufferedReader bufferedReader =
-                    new BufferedReader(fileReader);
-
-            int lineNum = 1;
-            while ((lyrics = bufferedReader.readLine()) != null) {
-                if (lineNum == 1) {
-
-                }
-
-                String[] l = lyrics.split("-");
-                String[] starttime = l[0].split(":");
-                //System.out.println(starttime[0] + ":" + starttime[1]);
-                String[] endtime = l[1].split(":");
-                //System.out.println(endtime[0] + ":" + endtime[1]);
-                int start = ((Integer.parseInt(starttime[0]) * 60) + (Integer.parseInt(starttime[1])) * 1000);
-                int end = ((Integer.parseInt(endtime[0]) * 60) + (Integer.parseInt(endtime[1])) * 1000);
-                //System.out.println(start);
-                //System.out.println(end);
-                endLyricTime = end;
-
-
-                int totmin = Integer.parseInt(endtime[0]) - Integer.parseInt(starttime[0]);
-                int totsecs = (totmin * 60) + (Integer.parseInt(endtime[1]) - Integer.parseInt(starttime[1]));
-
-                final String x = l[2];
-
-                if (current >= start && current < end) {
-                    /*
-                    System.out.println("Current: " + current); //Debug
-                    System.out.println("Start: " + start); //Debug
-                    System.out.println("End: " + end); //Debug
-                    */
-                    currentLyrics = x;
-                    return x;
-                }
-
-                try {
-
-                    Thread.sleep(totsecs * 1000);
-                } catch (InterruptedException ex) {
-                    Thread.currentThread().interrupt();
-                }
-                lineNum++;
-            }
-            //TODO: Figure out how to return the end of the file.
-            // Always close files.
-            bufferedReader.close();
-        } catch (FileNotFoundException ex) {
-            System.out.println(
-                    "Unable to open file '" +
-                            song + "'");
         } catch (IOException ex) {
             System.out.println(
                     "Error reading file '"
