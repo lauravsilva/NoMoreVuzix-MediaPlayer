@@ -372,19 +372,10 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         fetchImageAsync(description);
 
         ArrayList<String> lyrics = lyricDisplay.getLyrics(description.getTitle().toString());
-        endTimeArray = LyricsDisplay.endTimes; //TODO: Try to recover
+        endTimeArray = LyricsDisplay.endTimes;
 
         arrayAdapter = new ArrayAdapter<String>(this, R.layout.lyrics, lyrics);
         lyricsList.setAdapter(arrayAdapter);
-//        lyricsList.setFocusableInTouchMode(false);
-//        lyricsList.setOnFocusChangeListener(new View.OnFocusChangeListener() {
-//            @Override
-//            public void onFocusChange(View v, boolean hasFocus) {
-//                v.setBackgroundColor(hasFocus ? Color.GREEN : Color.RED);
-//            }
-//        });
-//
-//        lyricsList.setClickable(true);
         lyricsList.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
     }
 
@@ -484,20 +475,5 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
     private void setSelection(int index) {
         lyricsList.setSelection(index);
         lyricsList.requestFocusFromTouch();
-//        lyricsList.setSelector(R.drawable.selected);
     }
-
-    /*
-    private void updateLyrics() {
-        long currentTime = (System.currentTimeMillis() - startTime) / 1000;
-
-
-        System.out.println(endTimeArray); //
-        if (currentTime >= endTimeArray.get(endTimeIndex)) {
-            setSelection(lyricsIndex);
-            lyricsIndex++;
-            endTimeIndex++;
-        }
-    }
-    */
 }
