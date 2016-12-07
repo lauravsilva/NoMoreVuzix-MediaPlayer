@@ -61,6 +61,8 @@ public class LyricsDisplay {
             }
 
         } catch (FileNotFoundException ex) {
+            endTimes = new ArrayList<>();
+            endTimes.add(9999999);
             System.out.println(
                     "Unable to open file '" +
                             song + "'");
@@ -84,8 +86,6 @@ public class LyricsDisplay {
             lyrics.add("Default lyrics");
             lyrics.add("For testing purposes");
             lyrics.add("They should be removed for deployment");
-
-
         } catch (IOException ex) {
             System.out.println(
                     "Error reading file '"
