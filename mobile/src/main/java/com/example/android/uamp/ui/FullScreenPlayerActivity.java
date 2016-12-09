@@ -458,18 +458,26 @@ public class FullScreenPlayerActivity extends ActionBarCastActivity {
         }
         mSeekbar.setProgress((int) currentPosition);
 
-        if (counter < endTimeArray.get(0)) {
+        int currentTime = (int) currentPosition/1000;
+
+        if (currentTime < endTimeArray.get(0)) {
             setSelection(0);
         }
-
-        if(endTimeIndex < endTimeArray.size()){
-            if (counter >= endTimeArray.get(endTimeIndex)) {
-                setSelection(lyricsIndex+1);
-                lyricsIndex++;
-                endTimeIndex++;
+        else {
+            if (currentTime < endTimeArray.get(endTimeArray.size() - 1)) {
+                for (int i = 0; i < endTimeArray.size(); i++) {
+                    if (i == endTimeArray.size() - 1) {
+                        setSelection(i + 1);
+                    }
+                    else {
+                        if (currentTime >= endTimeArray.get(i) && counter <= endTimeArray.get(i + 1)) {
+                            setSelection(i+1);
+                        }
+                    }
+                }
             }
-            counter++;
         }
+        counter++;
     }
 
     private void setSelection(int index) {
