@@ -66,26 +66,7 @@ public class LyricsDisplay {
             System.out.println(
                     "Unable to open file '" +
                             song + "'");
-            lyrics.add("No lyrics loaded");
-            lyrics.add("Default lyrics");
-            lyrics.add("For testing purposes");
-            lyrics.add("They should be removed for deployment");
-            lyrics.add("No lyrics loaded");
-            lyrics.add("Default lyrics");
-            lyrics.add("For testing purposes");
-            lyrics.add("They should be removed for deployment");
-            lyrics.add("No lyrics loaded");
-            lyrics.add("Default lyrics");
-            lyrics.add("For testing purposes");
-            lyrics.add("They should be removed for deployment");
-            lyrics.add("No lyrics loaded");
-            lyrics.add("Default lyrics");
-            lyrics.add("For testing purposes");
-            lyrics.add("They should be removed for deployment");
-            lyrics.add("No lyrics loaded");
-            lyrics.add("Default lyrics");
-            lyrics.add("For testing purposes");
-            lyrics.add("They should be removed for deployment");
+
         } catch (IOException ex) {
             System.out.println(
                     "Error reading file '"
